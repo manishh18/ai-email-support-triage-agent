@@ -6,9 +6,12 @@ The system automatically reads incoming customer emails, analyzes their content 
 
 ---
 
+
 ## System Architecture
 
-!(architecture.png)
+<p align="center">
+  <img src="architecture.png" width="800">
+</p>
 
 
 ---
