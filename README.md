@@ -8,9 +8,8 @@ The system automatically reads incoming customer emails, analyzes their content 
 
 ## System Architecture
 
-![architechure.png](architecture.png)
+![System Architecture](architecture.png)
 
-*Replace `architecture-diagram.png` with the name of the image you upload to the repository.*
 
 ---
 
