@@ -8,7 +8,7 @@ The system automatically reads incoming customer emails, analyzes their content 
 
 ## System Architecture
 
-![System Architecture](architecture.png)
+!(architecture.png)
 
 
 ---
